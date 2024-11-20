@@ -63,7 +63,7 @@ ICPC-Sharif-Selection-2024/
 ├── basics/         # سوالات A تا E: مبانی برنامه‌نویسی
 ├── algorithms/     # سوالات F تا J: طراحی الگوریتم‌ها
 ├── README.md       # توضیحات ریپازیتوری
-└── Licence
+└── LICENSE
 ```
 
 
