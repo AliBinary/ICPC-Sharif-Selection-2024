@@ -64,6 +64,8 @@ ICPC-Sharif-Selection-2024/
 ├── algorithms/     # سوالات F تا J: طراحی الگوریتم‌ها
 ├── README.md       # توضیحات ریپازیتوری
 ├── .gitignore
+├── P24.pdf         # نسخه انگلیسی سوالات مسابقه
+├── P24-fa.pdf      # نسخه فارسی سوالات مسابقه
 └── LICENSE
 ```
 
