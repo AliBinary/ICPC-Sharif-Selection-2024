@@ -1,2 +1,20 @@
-# ICPC-Sharif-Selection-2024
-This repository contains my solutions to the ICPC Sharif University of Technology online selection contest
+# ICPC Sharif University of Technology - Selection Contest Solutions
+
+این ریپازیتوری شامل راه‌حل‌های من برای مسابقات انتخابی ICPC دانشگاه صنعتی شریف است. این پروژه شامل حل مسائل مختلف از مسابقات آنلاین 2024 و الگوریتم‌هایی است که برای حل این مسائل استفاده کرده‌ام.
+
+## درباره
+این ریپازیتوری شامل:
+- راه‌حل‌های مسائل مختلف از مسابقات انتخابی ICPC دانشگاه شریف (2024).
+- تکنیک‌های برنامه‌نویسی، الگوریتم‌ها و ساختارهای داده‌ای استفاده‌شده در حل مسائل.
+- توضیحات مختصر برای هر مسئله.
+
+## Structure
+- `Problem1/`: فولدری شامل راه‌حل مسئله 1.
+- `Problem2/`: فولدری شامل راه‌حل مسئله 2.
+- `Problem3/`: فولدری شامل راه‌حل مسئله 3.
+- (و سایر مسائل…)
+
+## Getting Started
+1. این ریپازیتوری را به ماشین خود کلون کنید:
+   ```bash
+   git clone https://github.com/your-username/ICPC-Sharif-Selection.git
